@@ -20,5 +20,5 @@ LIBRATO_SOURCE
 #### Installation
 
 ```
-$ heroku plugins install https://github.com/neilmiddleton/heroku-config-diff
+$ heroku plugins:install https://github.com/neilmiddleton/heroku-config-diff
 ```
